@@ -61,7 +61,7 @@ This project presents an analytical view of the **Times Higher Education (THE) W
 ## Tools Used
 - **Python**: Data wrangling with Pandas and NumPy.
 - **Excel**: Data visualization and dashboard creation using Pivot Charts, Slicers, and Filters.
-- **Libraries Used**: `pandas`, `numpy`, `matplotlib`, `seaborn` (for optional EDA).
+- **Libraries Used**: `pandas`, `numpy`, `matplotlib`, `seaborn`.
 
 
 ---
